@@ -33,10 +33,10 @@
 [홈페이지](https://dohyun-0224.github.io/testwork/)
 
 ## 5. 코드 처리사항
-''' python
+``` python
 print("hello world");
 arr[1,2,3,4,5]
-'''
+```
 
 
 
